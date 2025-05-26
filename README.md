@@ -21,7 +21,6 @@ To clean and prepare the raw dataset for further analysis and reporting by perfo
 4. Convert dates to consistent format
 5. Rename column headers for consistency
 6. Correct inappropriate data types
-7. Create useful new columns (`is_cancelled`)
 
 ---
 
